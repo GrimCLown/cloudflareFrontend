@@ -9,7 +9,7 @@ Follow these steps to set up the project locally:
 First, clone the repository to your local machine:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/GrimCLown/cloudflareFrontend.git
 ```
 
 ## 2. Install Dependencies
